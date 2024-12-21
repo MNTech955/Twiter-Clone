@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "231617542833",
+    "project_id": "flutter-hub-emerece2-app-user",
+    "storage_bucket": "flutter-hub-emerece2-app-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231617542833:android:c6468ee1fc02ad8b880090",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce2_app_flutter_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231617542833-kfe1vs65fe90ptqgrsujdfgnu1cv0mdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJWe_PW9HNO3O1V5noMiVRd_EmbM3aLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231617542833-kfe1vs65fe90ptqgrsujdfgnu1cv0mdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231617542833:android:07a4f6333413b859880090",
+        "android_client_info": {
+          "package_name": "com.example.twiter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231617542833-kfe1vs65fe90ptqgrsujdfgnu1cv0mdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJWe_PW9HNO3O1V5noMiVRd_EmbM3aLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231617542833-kfe1vs65fe90ptqgrsujdfgnu1cv0mdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
